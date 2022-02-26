@@ -1,0 +1,16 @@
+<!-- altera largura e altura dos itens -->
+
+.container{
+    display: flex;
+    border: 1px solid red;
+    height: 200px;
+
+}
+
+
+.item{
+    background-color: gray;
+    border: 1px solid;
+    flex: 1;
+    
+}

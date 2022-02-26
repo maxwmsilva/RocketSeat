@@ -1,0 +1,11 @@
+.flexbox{
+    display: flex ;
+    justify-direction: column;
+
+}
+
+
+.item:nth-child(1){
+    order: 1;
+    
+}

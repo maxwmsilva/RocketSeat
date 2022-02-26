@@ -1,0 +1,13 @@
+* { 
+    box-sizing: border-box;  /*pega todo e conteudo, Normalmente usa-se o código abaixo como 
+    forma de "resetar" o box-sizing que vem por padrão nos navegadores.*/
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin: 10%;
+    padding: 0 20px;
+
+}

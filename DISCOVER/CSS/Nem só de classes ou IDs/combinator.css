@@ -1,0 +1,19 @@
+
+h1 ~ p {
+    color:red;
+
+}
+
+ul > ul > li {
+    color: blue;
+
+}
+
+button + button{
+    margin-left: 32px;
+}
+
+.red{
+    color:red;
+
+}

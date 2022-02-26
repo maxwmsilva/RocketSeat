@@ -1,0 +1,57 @@
+/* h1{
+    color:blue;
+    font-size: 60px;
+}
+
+p{
+    color: green;
+    font-size: 20px;   
+}
+
+#content {
+    color: orange;
+
+}
+
+#title {
+    color: purple
+}
+
+ */
+
+/* seletor de classe  */
+/* .red{
+    color:red;
+
+}
+
+
+.big {
+    font-size: 3em;
+}
+
+ */
+
+
+ [title] {
+     color: orange;
+
+ }
+
+ /* change color when select  */
+ p:hover, h1:hover, .red:hover{
+     color:green;
+
+ }
+
+ h1:hover{
+     color: blue;
+ }
+
+
+
+
+ 
+
+
+

@@ -1,0 +1,5 @@
+/* combinando-seletores.css */
+
+body > ul > li{
+    color:blue;
+}

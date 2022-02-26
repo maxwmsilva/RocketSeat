@@ -1,0 +1,41 @@
+.page{
+    border: 2px solid;
+    min-height: 100vh;
+
+    display: flex;
+
+}
+
+aside {
+    background: lightgreen;
+    flex:1;
+
+
+}
+
+main{
+    background: lightblue;
+    flex: 2;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+main section:nth-child(1){
+    background: lightgoldenrodyellow;
+    flex: 0 0 100px;
+    order: 3;
+}
+
+main section:nth-child(2){
+    background: lightcoral;
+    flex: 0 120px;
+    order: 1;
+}
+
+main section:nth-child(3){
+    background: lightseagreen;
+    flex: 1 0;
+    order: 2;
+}
